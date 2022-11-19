@@ -1,0 +1,20 @@
+li {
+    display: inline; 
+}
+
+h1{
+    color:red;
+    text-align: center;
+    font-family: roboto;
+
+}
+
+.title{
+    text-decoration: underline;  
+}
+#resume
+{
+    color: blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
